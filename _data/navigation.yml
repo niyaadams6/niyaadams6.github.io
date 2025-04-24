@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: / 
   - title: "About"
-    url: /bleep/
+    url: /boop/
   #- title: "Sample Posts"
    # url: /year-archive/
   #- title: "Sample Collections"
